@@ -20,27 +20,27 @@
         -->
         <repository>
             <id>jdon-struts1x</id>
-            <url>https://gitee.com/banqjdon/jdon-mvn-repo/releases</url>
+            <url>https://raw.githubusercontent.com/banq/jdon-mvn-repo/master/releases</url>
         </repository>
         <repository>
             <id>jdonaccessory</id>
-            <url>https://gitee.com/banqjdon/jdon-mvn-repo/releases</url>
+            <url>https://raw.githubusercontent.com/banq/jdon-mvn-repo/master/releases</url>
         </repository>
         <repository>
             <id>jdon-jdbcTemp</id>
-            <url>https://gitee.com/banqjdon/jdon-mvn-repo/releases</url>
+            <url>https://raw.githubusercontent.com/banq/jdon-mvn-repo/master/releases</url>
         </repository>
         <repository>
             <id>jdon-treepattern</id>
-            <url>https://gitee.com/banqjdon/jdon-mvn-repo/releases</url>
+            <url>https://raw.githubusercontent.com/banq/jdon-mvn-repo/master/releases</url>
         </repository>
         <repository>
             <id>weibo4j</id>
-            <url>https://gitee.com/banqjdon/jdon-mvn-repo/releases</url>
+            <url>https://raw.githubusercontent.com/banq/jdon-mvn-repo/master/releases</url>
         </repository>
         <repository>
             <id>urlrewrite</id>
-            <url>https://gitee.com/banqjdon/jdon-mvn-repo/releases</url>
+            <url>https://raw.githubusercontent.com/banq/jdon-mvn-repo/master/releases</url>
         </repository>
     </repositories>
 
@@ -386,7 +386,7 @@
 <dependency>
     <groupId>mysql</groupId>
     <artifactId>mysql-connector-java</artifactId>
-    <version>5.1.47</version>
+    <version>8.0.30</version>
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/com.belerweb/pinyin4j -->
