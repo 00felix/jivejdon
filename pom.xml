@@ -402,6 +402,13 @@
     <version>8.0.30</version>
 </dependency>
 
+        <!-- Pin transitive protobuf-java from mysql-connector-java to address security advisories -->
+        <dependency>
+            <groupId>com.google.protobuf</groupId>
+            <artifactId>protobuf-java</artifactId>
+            <version>4.35.0</version>
+        </dependency>
+
 <!-- https://mvnrepository.com/artifact/com.belerweb/pinyin4j -->
 <dependency>
     <groupId>com.belerweb</groupId>
