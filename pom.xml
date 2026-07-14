@@ -343,6 +343,12 @@
             <artifactId>qcloudsms</artifactId>
             <version>1.0.6</version>
         </dependency>
+        <!-- Pin transitive dep to address security advisories in org.json:json -->
+        <dependency>
+            <groupId>org.json</groupId>
+            <artifactId>json</artifactId>
+            <version>20260522</version>
+        </dependency>
         <!-- Pin transitive dep to address security advisory CVE in httpclient -->
         <dependency>
             <groupId>org.apache.httpcomponents</groupId>
