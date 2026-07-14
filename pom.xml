@@ -20,27 +20,27 @@
         -->
         <repository>
             <id>jdon-struts1x</id>
-            <url>https://gitee.com/banqjdon/jdon-mvn-repo/releases</url>
+            <url>https://gitee.com/banqjdon/jdon-mvn-repo/raw/master/releases</url>
         </repository>
         <repository>
             <id>jdonaccessory</id>
-            <url>https://gitee.com/banqjdon/jdon-mvn-repo/releases</url>
+            <url>https://gitee.com/banqjdon/jdon-mvn-repo/raw/master/releases</url>
         </repository>
         <repository>
             <id>jdon-jdbcTemp</id>
-            <url>https://gitee.com/banqjdon/jdon-mvn-repo/releases</url>
+            <url>https://gitee.com/banqjdon/jdon-mvn-repo/raw/master/releases</url>
         </repository>
         <repository>
             <id>jdon-treepattern</id>
-            <url>https://gitee.com/banqjdon/jdon-mvn-repo/releases</url>
+            <url>https://gitee.com/banqjdon/jdon-mvn-repo/raw/master/releases</url>
         </repository>
         <repository>
             <id>weibo4j</id>
-            <url>https://gitee.com/banqjdon/jdon-mvn-repo/releases</url>
+            <url>https://gitee.com/banqjdon/jdon-mvn-repo/raw/master/releases</url>
         </repository>
         <repository>
             <id>urlrewrite</id>
-            <url>https://gitee.com/banqjdon/jdon-mvn-repo/releases</url>
+            <url>https://gitee.com/banqjdon/jdon-mvn-repo/raw/master/releases</url>
         </repository>
     </repositories>
 
@@ -363,7 +363,7 @@
         <dependency>
             <groupId>org.jsoup</groupId>
             <artifactId>jsoup</artifactId>
-            <version>1.14.3</version> <!-- Use the latest version available -->
+            <version>1.22.2</version>
         </dependency>
 
 
